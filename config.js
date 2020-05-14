@@ -13,7 +13,7 @@ var config = {
         "每天的点点滴滴",
         "每个深夜互道的晚安和爱你",
         "我爱你，比昨天更爱你",
-        "Happy birthdaay!",
+        "Happy Birthdaay!",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
